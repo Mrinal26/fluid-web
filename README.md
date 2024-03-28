@@ -30,16 +30,19 @@ To use the fluid responsive image component:
 - **Desktop View**
 ![image (9)](https://github.com/Mrinal26/fluid-web/assets/89139773/ad079150-4891-43fd-aef6-d1bddc13fc7b)
 
--**Ipad View**
+
+- **Ipad View**
 
 ![image (10)](https://github.com/Mrinal26/fluid-web/assets/89139773/9f3258ec-2fc0-4ad5-ba2f-de6cae2a90f1)
 
 
+- **IPhone XR**
+
+![image (7)](https://github.com/Mrinal26/fluid-web/assets/89139773/42366fa9-3217-4e5b-96b2-99d02020ae3f)
 
 
-![image (8)](https://github.com/Mrinal26/fluid-web/assets/89139773/e5575957-20f9-41ae-b04e-59055c526ec1)
 
--**IPhone XR**
+
 
 ## Author
 [Mrinal](https://github.com/Mrinal26)
