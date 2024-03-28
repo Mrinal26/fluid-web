@@ -33,7 +33,8 @@ To use the fluid responsive image component:
 
 - **Ipad View**
 
-![image (10)](https://github.com/Mrinal26/fluid-web/assets/89139773/9f3258ec-2fc0-4ad5-ba2f-de6cae2a90f1)
+![image (7)](https://github.com/Mrinal26/fluid-web/assets/89139773/8023477f-7e29-4ed2-aa16-1dd886ea4f84)
+
 
 
 - **IPhone XR**
