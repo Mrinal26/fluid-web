@@ -5,10 +5,49 @@ body {
     overflow: hidden;
 }
 
-header, footer {
-    height: 100px;
+header {
     background-color: #333;
     color: white;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 100px;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+}
+
+.menu li {
+    margin-right: 20px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+}
+
+.burger {
+    display: none; 
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.line {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 3px 0;
 }
 
 #app {
@@ -24,4 +63,19 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover; 
+}
+
+
+@media screen and (max-width: 768px) {
+    .menu {
+        display: none; 
+    }
+
+    .burger {
+        display: flex; 
+    }
+}
+footer{
+    background-color: #333;
+    height: 100px;
 }
