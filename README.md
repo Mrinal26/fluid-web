@@ -27,13 +27,15 @@ To use the fluid responsive image component:
 - 
 ## Screenshots
 
-![image (7)](https://github.com/Mrinal26/fluid-web/assets/89139773/f9a83df4-7286-45c0-a93f-03611653ed72)
-
 - **Desktop View**
-
-![image (9)](https://github.com/Mrinal26/fluid-web/assets/89139773/7160aa38-5863-4343-bb99-bee9f434ef77)
+![image (9)](https://github.com/Mrinal26/fluid-web/assets/89139773/ad079150-4891-43fd-aef6-d1bddc13fc7b)
 
 -**Ipad View**
+
+![image (10)](https://github.com/Mrinal26/fluid-web/assets/89139773/9f3258ec-2fc0-4ad5-ba2f-de6cae2a90f1)
+
+
+
 
 ![image (8)](https://github.com/Mrinal26/fluid-web/assets/89139773/e5575957-20f9-41ae-b04e-59055c526ec1)
 
