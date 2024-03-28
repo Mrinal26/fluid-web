@@ -24,6 +24,20 @@ To use the fluid responsive image component:
 - **No stretching:** The image should maintain its aspect ratio and be cropped or uncropped based on the screen size to prevent stretching.
 - **Header and Footer:** The component should include header and footer sections with a fixed height of 100 pixels each.
 - **Minimal CSS:** The CSS should be optimized to minimize the lines of code while achieving the desired layout and styling.
+- 
+## Screenshots
+
+![image (7)](https://github.com/Mrinal26/fluid-web/assets/89139773/f9a83df4-7286-45c0-a93f-03611653ed72)
+
+- **Desktop View**
+
+![image (9)](https://github.com/Mrinal26/fluid-web/assets/89139773/7160aa38-5863-4343-bb99-bee9f434ef77)
+
+-**Ipad View**
+
+![image (8)](https://github.com/Mrinal26/fluid-web/assets/89139773/e5575957-20f9-41ae-b04e-59055c526ec1)
+
+-**IPhone XR**
 
 ## Author
 [Mrinal](https://github.com/Mrinal26)
