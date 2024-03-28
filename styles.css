@@ -75,7 +75,26 @@ img {
         display: flex; 
     }
 }
-footer{
+footer {
     background-color: #333;
+    color: white;
     height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+}
+
+.logo-footer {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.footer-text {
+    font-size: 16px;
 }
